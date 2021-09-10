@@ -1,7 +1,7 @@
 import sys,random
 print("Welcome to the SILLY NAME GENERATOR.\n")
 
-First=('Christopher','Xavier', 'Boggart', 'PlopPlop', 'Wulfrus', 'Wandy', 'Charmayanne', 'Charcole', 'Anomaly', 'Tenysi', 'StrikingDuck', 'Tracaluuni', 'Dwarren', 'Saparat', 'Prof.')
+First=('Christopher','Xavier', 'Boggart', 'Plop', 'Wulfrus', 'Wandy', 'Charmayanne', 'Charcole', 'Anomaly', 'Dwarren', 'Prof.')
 Last=('Jenks','Troteville', 'Hilton', 'Algernon', 'Curupaa', 'Goon', 'Bubbly', 'Mauii', 'Charcoal', 'The Animal', 'Shufflebottom', 'Shellaberger', 'Stopme', 'The Nidduring', 'Boef', 'Barf',
       'Whooed', 'Areyoustuchha', 'Mydadaa', 'Gans', 'Glancing')
 while True:
